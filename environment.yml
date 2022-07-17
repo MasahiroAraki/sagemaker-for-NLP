@@ -1,0 +1,14 @@
+name: nlp
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - ipython
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - spacy
+  - pytorch
+  - transformers
+  - datasets
