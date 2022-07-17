@@ -6,4 +6,4 @@
 
 |内容|Notebook|
 |:---|:-------|
-|サンプル|[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://github.com/MasahiroAraki/sagemaker-for-NLP/blob/main/02a_MLflow.ipynb)|
+|サンプル|[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://github.com/MasahiroAraki/sagemaker-for-NLP/blob/main/02_MLflow.ipynb)|
