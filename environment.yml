@@ -1,9 +1,11 @@
 name: nlp
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - python
   - ipykernel
+  - ipywidgets
   - ipython
   - matplotlib
   - pandas
